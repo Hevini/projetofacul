@@ -1,0 +1,13 @@
+/* Custom Styles */
+.hero {
+    background-color: #007bff;
+  }
+  
+  .hero h1 {
+    font-size: 3.5rem;
+  }
+  
+  .hero p {
+    font-size: 1.25rem;
+  }
+  
